@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "winsoft"
+    }
+  },
+  "defaultProject": "winsoft",
+  "cli": {
+    "analytics": "ba3d35f7-4d93-43d3-b8c6-4367e4c7dfe8"
+  }
 }
